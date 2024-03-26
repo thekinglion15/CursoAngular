@@ -1,3 +1,5 @@
+//Gabriel Alexander De León Lizardo
+//Función para calcular el IMC
 function calcularIMC(pesoKg: number, alturaM: number): string {
     const imc = pesoKg / (alturaM * alturaM);
 
