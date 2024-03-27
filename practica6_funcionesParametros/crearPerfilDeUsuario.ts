@@ -14,7 +14,7 @@ function crearPerfilDeUsuario(nombre: string, edad: number, pais: string = "No e
 
 //Ejemplos
 const perfil1 = crearPerfilDeUsuario("Enmanuel", 27, "República Dominicana");
-const perfil2 = crearPerfilDeUsuario("Cekate turaja", 32);
+const perfil2 = crearPerfilDeUsuario("Zekatek 'Habibi' turajá", 32);
 
 console.log(perfil1);
 console.log(perfil2);
